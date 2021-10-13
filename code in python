@@ -1,0 +1,7 @@
+//Sum of n Nutural numbers in python
+
+def natural_no(n):
+    return(n*(n+1)/2)
+
+n=int(input(print("Enter the Number")))
+natural_no(n)
